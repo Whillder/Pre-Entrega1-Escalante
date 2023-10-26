@@ -1,0 +1,16 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+}
+.ImgGif{
+    border-radius: 5px;
+    -webkit-box-shadow: 10px 10px 21px -1px rgba(196,196,196,1);
+-moz-box-shadow: 10px 10px 21px -1px rgba(196,196,196,1);
+box-shadow: 10px 10px 21px -1px rgba(196,196,196,1);
+}
